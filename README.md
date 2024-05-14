@@ -1,5 +1,5 @@
 # Netflix-Clone
-The Netflix-Clone demo can be https://princesingh6679.github.io/Netflix-Clone/
+The Netflix-Clone demo can be live https://princesingh6679.github.io/Netflix-Clone/
 
 
 
